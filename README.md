@@ -1,11 +1,17 @@
 <h2 align="center">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
+
+<a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%BC%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-74b98a224/">
+  <img align="left" alt="Pasha Marchenko LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
-**languages and tools:**
 
+
+
+**languages and tools:**
 
 <p align="left">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
