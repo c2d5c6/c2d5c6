@@ -12,9 +12,10 @@
     <img align="left" alt="Pasha Marchenko SoundCloud" width="22px" src="https://camo.githubusercontent.com/ac239c1cbda77e625469bb2f8ec0723c2ab50f5e8e55ec271a58629dedf0cb31/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736f756e64636c6f75642e737667">
 </a>
 
-<br />
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<br />
 
 <a href="https://tenor.com/WH4E.gif">
 
