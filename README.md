@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="GIF" src="https://github.com/PmarchenkoUCode/PmarchenkoUCode/blob/main/XQRC.gif" width="300" height="220" style="overflow: hide;" />
+<img align="right" alt="GIF" src="https://github.com/PmarchenkoUCode/PmarchenkoUCode/blob/main/XQRC.gif" width="300" height="220"/>
 
 <a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%BC%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-74b98a224/">
     <img align="left" alt="Pasha Marchenko LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
