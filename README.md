@@ -18,7 +18,6 @@
 
 <br />
 
-
 **languages and tools:**
 
 <p align="left">
@@ -62,3 +61,6 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/>
     </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pmarchenkoucode=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
