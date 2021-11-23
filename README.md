@@ -16,7 +16,7 @@
 
 <br />
 
-<img align="center" alt="GIF" src="https://github.com/PmarchenkoUCode/PmarchenkoUCode/blob/main/giphy.gif" width="480" height="270" style="overflow: hide;" />
+<!-- <img align="center" alt="GIF" src="https://github.com/PmarchenkoUCode/PmarchenkoUCode/blob/main/giphy.gif" width="480" height="270" style="overflow: hide;" /> -->
 
 
 **languages and tools:**
