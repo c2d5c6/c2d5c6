@@ -3,7 +3,10 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%BC%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-74b98a224/">
-  <img align="left" alt="Pasha Marchenko LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Pasha Marchenko LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/muilco/">
+    <img aling="left" alt="Pasha Marchenko Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667">
 </a>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
