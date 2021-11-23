@@ -14,10 +14,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pmarchenkoucode.pmarchenkoucode)
 
-
 <br />
 
-<a href="https://tenor.com/WH4E.gif">
+<img align="right" alt="GIF" src="https://github.com/pmarchenkoucode/pmarchenkoucode/blob/master/giphy.gif?raw=true" width="500" height="320" />
 
 
 **languages and tools:**
