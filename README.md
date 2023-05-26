@@ -1,21 +1,5 @@
 <h2 align="center">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h2>
 
-<h3 align="left">Connect with me:</h3>
-
-<img align="right" alt="GIF" src="https://github.com/PmarchenkoUCode/PmarchenkoUCode/blob/main/XQRC.gif" width="300" height="220"/>
-
-<a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%BC%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-74b98a224/">
-    <img align="left" alt="Pasha Marchenko LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/muilco/">
-    <img align="left"alt="Pasha Marchenko Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667">
-</a>
-<a href="https://soundcloud.com/evangillaustin">
-    <img align="left" alt="Pasha Marchenko SoundCloud" width="22px" src="https://camo.githubusercontent.com/ac239c1cbda77e625469bb2f8ec0723c2ab50f5e8e55ec271a58629dedf0cb31/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736f756e64636c6f75642e737667">
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=pmarchenkoucode.pmarchenkoucode)
-
 <br />
 
 ### :hammer_and_wrench: Languages and Tools :
